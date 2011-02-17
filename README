@@ -1,0 +1,20 @@
+DESCRIPTION
+
+A VESA VBE 2.0 video driver for DOS.
+
+
+DISCLAIMER
+
+This is *very* old code I wrote in 1999. It seems to work fine and you can even
+compile and run it in Dosbox. However, I assume no responsibilty for what it
+might do to your hardware.
+
+
+COMPILATION
+
+You need DJGPP, DJ Delorie's DOS port of the gcc, other compilers will *not*
+work.
+
+To compile, go to the 'src' folder and type 'make'. Then go to the 'demo\plasma'
+folder, for a usage example.
+
